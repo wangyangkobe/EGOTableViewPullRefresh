@@ -30,7 +30,7 @@
 typedef enum{
 	EGOOPullPulling = 0,
 	EGOOPullNormal,
-	EGOOPullLoading,	
+	EGOOPullLoading,
 } EGOPullState;
 
 #define DEFAULT_ARROW_IMAGE         [UIImage imageNamed:@"blueArrow.png"]
